@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="MailApp" xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0">
-  <Id>0b2a20eb-b0f6-42cc-9f96-60901e6cbd0f</Id>
+  <Id>edu.morehouse.mtg.servicedesk.owa-add-in</Id>
   <Version>1.0.0</Version>
   <ProviderName>McKay Industries</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
